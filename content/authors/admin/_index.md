@@ -30,9 +30,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Political Science
-    institution: Florida State University
-    year: 2020
   - course: MA in Political Science
     institution: Florida State University
     year: 2017
