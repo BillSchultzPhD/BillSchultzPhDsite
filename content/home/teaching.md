@@ -5,7 +5,7 @@ widget = "blank"
 headless = true  # This file represents a page section.
 weight = 23
 
-title = "Skills"
+title = "Teaching"
 subtitle = ""
 
 [design]
