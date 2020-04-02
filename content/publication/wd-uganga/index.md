@@ -1,11 +1,12 @@
 ---
-title: "Stakeholder engagement increases transparency, satisfaction, and civic action"
+title: "Bridging the academic-practitioner gap in RCTs"
 authors:
+- A. Rani Parker
 - Eric Coleman
 - Jacob Manyindo
-- A. Rani Parker
+- Emmanuel Mukuru
 - admin
-date: "2019-11-18T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,22 +19,20 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*the Proceedings of the National Academy of Sciences, 116*(49)"
+publication: "*World Development, 127"
 publication_short: ""
 
-abstract: This study evaluates the effectiveness of a Stakeholder Engagement (SE) intervention in improving outcomes for communities affected by oil and gas extraction in Western Uganda. The study design is a randomized controlled trial where villages are randomly assigned to a treatment group (participating in SE) or a control group (not participating). Data are collected via household surveys at baseline and end line in 107 villages in the Albertine Graben. We find that SE improves transparency, civic activity, and satisfaction with issues that most concern the people under study. While satisfaction has improved, it is too early to ascertain whether these interventions improve long-term outcomes. These results are robust when controlling for spillover effects and other subregional fixed effects.
+abstract: The use of Randomized Controlled Trials (RCTs) to evaluate development programs presents important challenges and opportunities for collaboration between academics and practitioners. Our team of experts measured the effectiveness of multi-stakeholder forums in 107 villages in Uganda over three years using an RCT approach. The focused technical demands of an RCT and the broad reality of practitioner worlds forced the team to tackle questions of: (a) how to manage the tensions of qualitative and quantitative data given the demand for evaluation procedures like power analysis estimation and hypothesis testing; (b) how to define measurable impact so it represents program realities and is amenable to the standardization required by an RCT; and (c) what compromises are required to maintain the spirit and practice of collaboration. We conclude that meaningful collaboration requires immense effort and compromise to leverage the significant benefits possible under this research paradigm.
 
 # Summary. An optional shortened abstract.
-summary: We use a randomized controlled trial to evaluate the effectiveness of a Stakeholder Engagement (SE) intervention in improving outcomes for communities affected by oil and gas extraction in Western Uganda.
+summary: A commentary on the challenges facing academic and practitioner collaboration in development research, based on our team's experience conducting an RCT study in Western Uganda
 
 tags:
 featured: true
 
 links:
 - name: Publication link
-  url: https://www.pnas.org/content/116/49/24486/tab-article-info
-- name: Replication
-  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DEGFVP
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0305750X19304681
 url_pdf: ''
 url_code: ''
 url_dataset: ''
