@@ -19,10 +19,12 @@ publication_types: ["2"]
 publication: "*the Proceedings of the National Academy of Sciences, 116*(49)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study evaluates the effectiveness of a Stakeholder Engagement (SE) intervention in improving outcomes for communities affected by oil and gas extraction in Western Uganda. The study design is a randomized controlled trial where villages are randomly assigned to a treatment group (participating in SE) or a control group (not participating). Data are collected via household surveys
+at baseline and end line in 107 villages in the Albertine Graben. We find that SE improves transparency, civic activity, and satisfaction with issues that most concern the people under study. While satisfaction has improved, it is too early to ascertain whether
+these interventions improve long-term outcomes. These results are robust when controlling for spillover effects and other subregional fixed effects.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed # ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -52,15 +54,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% alert note %}}
