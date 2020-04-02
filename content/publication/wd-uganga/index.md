@@ -19,7 +19,7 @@ publishDate: "2020-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*World Development, 127"
+publication: "*World Development, 127*"
 publication_short: ""
 
 abstract: The use of Randomized Controlled Trials (RCTs) to evaluate development programs presents important challenges and opportunities for collaboration between academics and practitioners. Our team of experts measured the effectiveness of multi-stakeholder forums in 107 villages in Uganda over three years using an RCT approach. The focused technical demands of an RCT and the broad reality of practitioner worlds forced the team to tackle questions of: (a) how to manage the tensions of qualitative and quantitative data given the demand for evaluation procedures like power analysis estimation and hypothesis testing; (b) how to define measurable impact so it represents program realities and is amenable to the standardization required by an RCT; and (c) what compromises are required to maintain the spirit and practice of collaboration. We conclude that meaningful collaboration requires immense effort and compromise to leverage the significant benefits possible under this research paradigm.
