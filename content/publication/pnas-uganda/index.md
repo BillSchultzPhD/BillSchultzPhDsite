@@ -32,9 +32,11 @@ featured: true
 links:
 - name: Publication link
   url: https://www.pnas.org/content/116/49/24486/tab-article-info
-url_pdf: https://www.pnas.org/content/116/49/24486/tab-article-info
-url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DEGFVP'
-url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DEGFVP'
+- name: Replication
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DEGFVP
+url_pdf: ''
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
