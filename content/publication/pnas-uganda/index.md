@@ -24,7 +24,7 @@ publication_short: ""
 abstract: This study evaluates the effectiveness of a Stakeholder Engagement (SE) intervention in improving outcomes for communities affected by oil and gas extraction in Western Uganda. The study design is a randomized controlled trial where villages are randomly assigned to a treatment group (participating in SE) or a control group (not participating). Data are collected via household surveys at baseline and end line in 107 villages in the Albertine Graben. We find that SE improves transparency, civic activity, and satisfaction with issues that most concern the people under study. While satisfaction has improved, it is too early to ascertain whether these interventions improve long-term outcomes. These results are robust when controlling for spillover effects and other subregional fixed effects.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed # ex sollicitudin condimentum.
+summary: We use a randomzied controlled trial to evaluate the effectiveness of a Stakeholder Engagement (SE) intervention in improving outcomes for communities affected by oil and gas extraction in Western Uganda.
 
 tags:
 featured: true
