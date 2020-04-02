@@ -44,4 +44,10 @@ subtitle = ""
   name = "Stata"
   description = " "
 
+ [[feature]]
+  icon = "pen-alt"
+  icon_pack = "fas"
+  name = "Writing"
+  description = " "
+  
 +++
