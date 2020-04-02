@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Political Science
-    institution: Florida state University
+    institution: Florida State University
     year: 2020
   - course: MA in Political Science
-    institution: Florida state University
+    institution: Florida State University
     year: 2017
   - course: BSc in Business Management
     institution: University of Maryland
@@ -73,6 +73,6 @@ email: ""
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Bill Schultz, a PhD candidate in the Political Science department at Florida State University. Substantively, I study natural resource management in societies around the world, as well as the politics of conservation and development projects. Methodologically, I conduct research using a flexible mix of game theory and observational analysis. I am especially interested in geospatial data collection and causal inference techniques like the synthetic control method.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On this website, you will find some information about my research projects (including replication materials), the courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
