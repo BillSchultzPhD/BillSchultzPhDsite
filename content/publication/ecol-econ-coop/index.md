@@ -29,7 +29,7 @@ featured: true
 links:
 - name: Publication link
   url: https://www.sciencedirect.com/science/article/abs/pii/S0921800918313909
-- name: Publication link
+- name: Formal Appendix
   url: 'rmjp_proof.pdf'
 url_pdf: ''
 url_code: ''
