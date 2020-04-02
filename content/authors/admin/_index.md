@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My substantive research interests include international development, conservation efforts, and resource politics. Methodologically, I'm interested in geospatial data, causal inference, and game theory.
 
 interests:
 - Resource management
