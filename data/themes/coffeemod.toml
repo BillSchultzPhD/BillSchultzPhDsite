@@ -4,11 +4,11 @@ name = "Coffee"
 # Is theme light or dark?
 light = true
 
-# Primary
-primary = "#795548"
+# Primary (default #795548)
+primary = "#382211"
 
 # Menu
-menu_primary = "#795548"
+menu_primary = "#382211"
 menu_text = "rgba(255,255,255,0.6)"
 menu_text_active = "rgba(255,255,255,1)"
 menu_title = "#fff"
