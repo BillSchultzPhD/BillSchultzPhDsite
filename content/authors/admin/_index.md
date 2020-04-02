@@ -21,9 +21,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Resource management
+- Conservation
+- International development
+- Geospatial data
+- Causal inference
+- Game theory
 
 education:
   courses:
@@ -73,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I'm Bill Schultz, a PhD candidate in the Political Science department at Florida State University. Substantively, I study natural resource management in societies around the world, as well as the politics of conservation and development projects. Methodologically, I conduct research using a flexible mix of game theory and observational analysis. I am especially interested in geospatial data collection and causal inference techniques like the synthetic control method.
+I research natural resource management in societies around the world, as well as the politics of conservation and development projects. I conduct my research using a flexible mix of game theory and observational data analysis. I am especially interested in geospatial data collection and causal inference.
 
 On this website, you will find some information about my research projects (including replication materials), the courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
