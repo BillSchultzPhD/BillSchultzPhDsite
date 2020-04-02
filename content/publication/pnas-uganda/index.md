@@ -27,7 +27,6 @@ abstract: This study evaluates the effectiveness of a Stakeholder Engagement (SE
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed # ex sollicitudin condimentum.
 
 tags:
-- Source Themes
 featured: true
 
 links:
@@ -63,6 +62,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`
 
-slides: example
+slides: ""
 
 ---
