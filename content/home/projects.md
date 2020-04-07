@@ -22,6 +22,7 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
+     name = "*"
      tag = "Published"
   
   # [[content.filter_button]]
