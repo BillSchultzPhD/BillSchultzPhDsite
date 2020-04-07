@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "Working Projects"
+title = "Working Papers"
 subtitle = ""
 
 [content]
@@ -33,6 +33,15 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
 
+# Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "asc"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -42,7 +51,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
