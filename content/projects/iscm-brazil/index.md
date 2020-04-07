@@ -12,13 +12,13 @@ publishDate: "2020-04-07T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preparing for submission*"
-publication_short: ""
+# publication: "*Preparing for submission*"
+# publication_short: ""
 
-abstract: While there is a growing concensus that participation in sustainable development efforts is normatively important, its impacts on the environmental performance of these projects is less clear. Does increasing participation improve environmental outcomes, threaten them, or neither? This study examines the effect of local participation on forest conservation projects in Brazil that are associated with a high-profile international initiative called REDD+. Theoretically grounded measures of participation are constructed through a review public project documentation. An extension of the synthetic control approach is then used to assess the conservation value-added of high levels of participation within this sample. Counter to some strong arguments in both directions in the literature, high participation appears to at most have a minor negative effect on the ability of these REDD+ efforts to slow forest loss. This study concludes by weighing the implications of that finding for our understanding of participatory development initiatives.
+"While there is a growing concensus that participation in sustainable development efforts is normatively important, its impacts on the environmental performance of these projects is less clear. Does increasing participation improve environmental outcomes, threaten them, or neither? This study examines the effect of local participation on forest conservation projects in Brazil that are associated with a high-profile international initiative called REDD+. Theoretically grounded measures of participation are constructed through a review public project documentation. An extension of the synthetic control approach is then used to assess the conservation value-added of high levels of participation within this sample. Counter to some strong arguments in both directions in the literature, high participation appears to at most have a minor negative effect on the ability of these REDD+ efforts to slow forest loss. This study concludes by weighing the implications of that finding for our understanding of participatory development initiatives."
 
 # Summary. An optional shortened abstract.
 summary: This study uses a new extension of the synthetic control estimation strategy to explore whether the most participatory REDD+ efforts are more effective than other less participatory efforts to combat forest loss in the Brazilian Amazon.
