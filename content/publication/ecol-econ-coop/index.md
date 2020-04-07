@@ -23,7 +23,7 @@ abstract: Does the division of a society into identity groups increase the risk 
 # Summary. An optional shortened abstract.
 summary: This study uses cooperative game theory to identify the conditions under which social barriers to coordination are most likely to have consequences for sustainability
 
-tags: "published"
+tags:
 featured: true
 
 links:
