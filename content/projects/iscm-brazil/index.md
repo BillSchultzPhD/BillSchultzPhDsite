@@ -37,7 +37,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Project sites, with more participatory projects and green and others in blue'
+  caption: 'Project sites, with more participatory projects in green and others in blue'
   focal_point: ""
   preview_only: false
 
