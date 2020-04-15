@@ -1310,7 +1310,7 @@ saveRDS( dat, paste(getwd(),&quot;/data for analysis/postprocessed/largesample.r
 <p>There are a few more things to take care of before these data are ready for exploration and analysis</p>
 <div id="trimming" class="section level2">
 <h2><span class="header-section-number">8.1</span> Trimming</h2>
-<p>I’m going to use a “within” regression model (i.e., fixed effects) to compare the pre/post change in forest loss in SDR areas to the pre/post change change in RESEX areas. This helps me control for time-invariant differences across units that would otherwise bias my estimates. But using a within model the way I plan to requires outcome information both before and after a sustainable use area was established. So, I trim my sample down to the cases I can actually use in a fixed effects regression.</p>
+<p>I’m going to use a “within” regression model (i.e., fixed effects) to compare the pre/post change in forest loss in SDR areas to the pre/post change in RESEX areas. This helps me control for time-invariant differences across units that would otherwise bias my estimates. But, using a within model the way I plan to requires outcome information both before and after a sustainable use area was established. So, I trim my sample down to the cases I can actually use in a fixed effects regression.</p>
 <pre class="r"><code>#keep those starting after 2002 law 
 #standardizing governance of SDR and RESEX areas
 ldat &lt;- dat %&gt;%
