@@ -19,7 +19,7 @@ publishDate: "2020-04-07T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: How should analysts expect third-party agencies to behave when the success of a payment-based policy intervention requires devoting effort to costly relationship-building or risky local partnerships? This study uses game theory to explore the answers to that question
+summary: How should analysts expect third-party agencies to behave when the success of a payment-based policy intervention depends on devoting effort to costly relationship-building and/or risky local partnerships? This study uses game theory to explore the answers to those questions
 
 tags:
 featured: true
