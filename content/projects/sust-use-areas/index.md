@@ -26,6 +26,8 @@ tags:
 featured: true
 
 links:
+- name: Data preparation walkthrough
+  url: https://billschultzphd.netlify.com/md/sustuse-dataprep.html
 url_pdf: ''
 url_code: ''
 url_dataset: ''
