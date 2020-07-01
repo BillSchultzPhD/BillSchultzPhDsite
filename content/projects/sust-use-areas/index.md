@@ -40,7 +40,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Project sites, with more participatory projects and green and others in blue'
+  caption: 'Scatter plots of forest loss alerts over time in different categories'
   focal_point: ""
   preview_only: false
 
