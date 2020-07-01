@@ -40,7 +40,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Scatter plots of forest loss alerts over time in different categories'
+  caption: 'Scatter plots of forest loss alerts over time (16-day periods) in different categories (top-down vs bottom-up, before vs after creation)'
   focal_point: ""
   preview_only: false
 
