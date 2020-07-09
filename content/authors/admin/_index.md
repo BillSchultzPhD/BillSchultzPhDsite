@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral student (ABD)
+role: Asst. Instructional Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Florida State University
+- name: University of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Political Science
+    institution: Florida State University
+    year: 2020
   - course: MA in Political Science
     institution: Florida State University
     year: 2017
