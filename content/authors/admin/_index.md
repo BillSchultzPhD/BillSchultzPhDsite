@@ -78,4 +78,4 @@ email: ""
 
 I study natural resource management in societies around the world, as well as the politics of conservation and development projects. I conduct my research using a flexible mix of game theory and observational data analysis. I am especially interested in geospatial data collection and causal inference.
 
-On this website, you will find some information about my research projects (including replication materials), the courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
+On this website, you will find some information about my research projects, some courses I've taught, and my CV. You can also get in touch over email. Thank you for visiting!
