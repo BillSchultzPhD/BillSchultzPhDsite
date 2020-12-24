@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I study resource management policy in societies around the world, with a focus on the politics of conservation and development projects. I'm especially interested in the role social diversity and participatory policymaking play in these initiatives. I conduct research using a flexible mix of game theory, observational data analysis, and experimental work. Methodologically, I am interested in geospatial data collection, causal inference, and recent efforts to improve how applied researchers interpret statistical results.
+I study resource management policy in societies around the world, with a focus on the politics of conservation and development projects. I'm especially interested in the role social diversity and participatory policymaking play in these initiatives. I conduct research using a flexible mix of game theory, observational data analysis, and experimentation. Methodologically, I am interested in geospatial data collection, causal inference, and recent efforts to improve how applied researchers interpret statistical findings.
 
 On this website, you will find some information about my research, courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
