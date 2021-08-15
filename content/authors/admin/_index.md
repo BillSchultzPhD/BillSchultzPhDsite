@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My substantive research interests include international development, conservation efforts, and resource politics. Methodologically, I'm interested in geospatial data, causal inference, and game theory.
+bio: Substantively, I'm interested in the impacts of environmental interventions and the relationship between diversity and natural resource management. Methodologically, I'm interested in geospatial data, causal inference, and game theory.
 
 interests:
 - Resource management
@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I study resource management policy in societies around the world, with a focus on the politics of conservation and development projects. I'm especially interested in the role social diversity and participatory policymaking play in these initiatives. I conduct research using a flexible mix of game theory, observational data analysis, and experimentation. Methodologically, I am interested in geospatial data collection, causal inference, and recent efforts to improve how applied researchers interpret statistical findings.
+I study social issues surrounding natural resource management around the world. I'm especially interested in research evaluating the impacts of environmental and development interventions. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. I conduct my own research using a flexible mix of game theory, observational data analysis, and experimentation.
 
 On this website, you will find some information about my research, courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
