@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a social scientist interested in the effectiveness of environmental interventions, the effects of diversity on natural resource management, causal inference, and the ways researchers use statistics to draw conclusions about the world.
+bio: I'm a social scientist interested in the effectiveness of environmental interventions, the relationship between diversity and resource management outcomes, causal inference, and the ways researchers use statistics to draw conclusions about the world.
 
 interests:
 - Resource management
