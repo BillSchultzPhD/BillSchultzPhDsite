@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I study social issues surrounding natural resource management around the world. I'm especially interested in research evaluating the impacts of environmental and development interventions. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. I conduct my own research using a flexible mix of game theory, observational data analysis, and experimentation.
+I study the social issues surrounding natural resource management around the world. I'm especially interested in work evaluating the impacts of different kinds of environmental and development interventions. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. I conduct my own research using a flexible mix of game theory, observational data analysis, and experimentation.
 
 On this website, you will find some information about my research, courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
