@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Substantively, I'm interested in the impacts of environmental interventions and the relationship between diversity and natural resource management. Methodologically, I'm interested in geospatial data, causal inference, and game theory.
+bio: Substantively, I'm interested in the impacts of environmental interventions, as well as the relationship between diversity and natural resource management. Methodologically, I'm interested in geospatial data, causal inference, and game theory.
 
 interests:
 - Resource management
