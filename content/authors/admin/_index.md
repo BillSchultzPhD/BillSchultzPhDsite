@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Substantively, I'm interested in the impacts of environmental interventions, as well as the relationship between diversity and natural resource management. Methodologically, I'm interested in geospatial data, causal inference, and game theory.
+bio: I'm a social scientist interested in the effectiveness of environmental interventions, the effects of diversity on natural resource management, causal inference, and the ways researchers use statistics to draw conclusions about the world.
 
 interests:
 - Resource management
@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I study social issues related to natural resource management around the world. I'm especially interested in work evaluating the impacts of different kinds of environmental and development interventions. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. My own research incorporates a flexible mix of game theory, observational data analysis, and experimentation.
+I'm a social scientist who studies natural resource management around the world. I'm especially interested in work evaluating the impacts of different kinds of environmental and development interventions. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. My own research incorporates a flexible mix of game theory, observational data analysis, and experimentation.
 
 On this website, you will find some information about my research, courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
