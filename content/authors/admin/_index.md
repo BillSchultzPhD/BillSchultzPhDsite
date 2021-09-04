@@ -23,7 +23,8 @@ bio: A social scientist interested in the effectiveness of environmental interve
 interests:
 - Resource management
 - Conservation
-- International development
+- Restoration
+- Development
 - Geospatial data
 - Causal inference
 - Game theory
