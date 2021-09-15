@@ -2,10 +2,9 @@
 title: "Limited effects of tree planting on forest canopy cover and rural livelihoods in Northern India"
 authors:
 - Eric Coleman
-- Bill Schultz
+- admin
 - Vijay Ramprasad
 - and others
-- admin
 date: "2021-09-13T00:00:00Z"
 doi: ""
 
