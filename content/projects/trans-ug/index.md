@@ -19,14 +19,12 @@ publishDate: "2021-09-17T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: We use experimental evidence to evaluate the effect of a transparency intervention on community evaluations of oil-sector policymakers. We find no evidence for an effect of the interventino on attributions of blame and credit.
+summary: We provide experimental evidence that interventions which increased transparency surrounding the oil sector in Western Uganda did not change how communities assign blame and credit to key policymakers.
 
 tags:
 featured: true
 
 links:
-- name: Data preparation walkthrough
-  url: https://billschultzphd.netlify.com/md/sustuse-dataprep.html
 url_pdf: ''
 url_code: ''
 url_dataset: ''
