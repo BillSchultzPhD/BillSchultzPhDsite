@@ -40,7 +40,7 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
+  order = "desc"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
