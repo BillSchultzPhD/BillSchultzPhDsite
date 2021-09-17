@@ -1,5 +1,5 @@
 ---
-title: "Transparency and Attributions in the Extractives Sector: A Field Experiment in Western Uganda"
+title: "Transparency and attributions in the extractives sector: A field experiment in Western Uganda"
 authors:
 - admin
 date: "2021-09-17T00:00:00Z"
