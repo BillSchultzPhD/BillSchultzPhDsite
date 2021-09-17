@@ -37,7 +37,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'P-value figure illustrating null effects on blame attribution'
+  caption: 'P-value figure illustrating evidence against an effect on change in blame'
   focal_point: ""
   preview_only: false
 
