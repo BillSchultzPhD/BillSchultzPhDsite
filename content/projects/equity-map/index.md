@@ -5,7 +5,7 @@ authors:
 - Dan Brockington
 - Eric Coleman
 - Ida Djenontin
-- et al
+- others
 date: "2020-05-01T00:00:00Z"
 doi: ""
 
