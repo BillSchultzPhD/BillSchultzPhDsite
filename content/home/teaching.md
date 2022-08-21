@@ -28,7 +28,7 @@ Download an [example syllabus](Comp_NRM_syllabus.pdf).
 
 ### Understanding Political Science Research
 
-This course introduces undergraduate students to the basics of statistical techniques commonly used in the social sciences. It also provides more general lessons on the philosophy of science, and how that philosophy informs empirically-oriented political research of all forms. Students come out of this class better prepared to make sense of published work in political science, and more familiar with the fundamentals of good research design. This course is based around "the Fundamentals of Political Science Research" by Kellstedt and Whitten.
+This course introduces undergraduate students to the basics of statistical techniques commonly used in the social sciences. Students come out of this class better prepared to make sense of published work in political science, and more familiar with the fundamentals of good research design. This course is based around "the Fundamentals of Political Science Research" by Kellstedt and Whitten.
 
 Download an [example syllabus](Poli_Sci_Research.pdf).
 
