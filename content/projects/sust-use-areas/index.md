@@ -20,7 +20,7 @@ publishDate: "2020-04-07T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study compares the performance of two legal classifications of sustainable use areas in Brazil in terms of their ability to slow forest clearing. A primary difference between these areas is whether they were established through a top-down or bottom-up process.
+summary: This study compares the performance of a sample of mixed use protected areas in Brazil (in terms of fire prevention) based on whether they were created in a top-down manner, or whether they were created in response to local policy initiative.
 
 tags:
 featured: true
