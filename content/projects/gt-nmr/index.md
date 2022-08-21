@@ -1,7 +1,11 @@
 ---
-title: "Payment-based interventions and non-monetary returns"
+title: "Recognizing the equity implications of restoration priority maps"
 authors:
 - admin
+- Dan Brockington
+- Eric Coleman
+- Ida Djenontin
+- et al
 date: "2020-05-01T00:00:00Z"
 doi: ""
 
@@ -19,7 +23,7 @@ publishDate: "2020-04-07T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: How should analysts expect third-party agencies to behave when the success of a payment-based policy intervention depends on devoting effort to costly relationship-building and/or risky local partnerships? This study uses game theory to explore the answers to those questions
+summary: Adverse social impacts warrant more attention to equity in restoration priority mapping studies.
 
 tags:
 featured: true
@@ -59,4 +63,4 @@ slides: ""
 
 ---
 
-Payments for ecosystem services (PES) projects, and other efforts like them, often cannot afford to compensate citizens for their entire opportunity costs of cooperating with a policy initiative. While research shows that non-monetary returns to coopertion (i.e., a "warm glow" people feel for engaging in pro-social behavior) can help fill this gap, the strategic dynamics underlying a developer's choice to invest in establishing non-monetary returns or not remain unclear. I build on recent PES games to explore this issue. Among other things, I show that an interest in limiting costs can give development agencies an incentive to treat non-monetary returns and payments as substitutes rather than complements as intended. I also explore how a threat of elite capture influences an agency's decision-making in this regard, given that some of the most promising strategies for trying to prime non-monetary returns includes partnering with figures who already command local support.
+A growing number of studies develop maps to prioritize conservation and restoration interventions around the world. These maps often highlight the benefits of concentrating such interventions in the tropics. However, the equity implications of using such priority maps to guide global policy are less often explored and articulated. We highlight these equity issues by examining a widely publicized restoration priority map as an illustrative case. This map sought to identify places where restoration might provide the most biodiversity and carbon sequestration benefits at the lowest cost. First, we calculate the proportion of agricultural land in countries around the world that this map classifies as a top 15% restoration priority. A regression analysis shows that this map prioritizes restoration in countries where displacing agriculture would likely be most detrimental to livelihoods: countries that are poorer, more populated, more economically unequal, less food secure, and that employ more people in agriculture. Second, we show through a second regression analysis that a similar pattern appears sub-nationally within the tropics: roughly 5 km2 parcels of land that are both less economically developed and more populated are more likely to be top 15% restoration priorities. In other words, equity concerns persist at a subnational scale even after putting aside comparisons between the tropics and the Global North. Our findings indicate that priority-setting endeavors carry a threat of negative livelihood impacts when solely focused on efficiently pursuing biodiversity and carbon sequestration goals. Global prioritization exercises must better attend to the social impacts of concentrating this threat in vulnerable regions. The equity implications of global restoration maps call for greater integration of social data into restoration science.
