@@ -1,6 +1,6 @@
 
 ---
-title: "Local initiative in conservation and development efforts"
+title: "Local initiative and conservation effectiveness: evidence from mixed-use protected areas in Brazil"
 authors:
 - admin
 date: "2020-05-01T00:00:00Z"
