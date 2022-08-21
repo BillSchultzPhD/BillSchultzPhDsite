@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A social scientist interested in the effectiveness of environmental interventions, the relationship between diversity and resource management outcomes, causal inference, and the ways researchers use statistics to draw conclusions about the world. Specializing in data analysis with R and Stata.
+bio: A social scientist interested in the effectiveness of environmental interventions, causal inference, and the ways researchers use statistics to draw conclusions about the world. Specializing in data analysis with R and Stata.
 
 interests:
 - Resource management
@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a social scientist who studies natural resource management around the world. I'm especially interested in work evaluating the impacts of different kinds of environmental and development interventions, or work exploring community participation in policymaking. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. My own research incorporates a flexible mix of game theory, observational data analysis, and experimentation.
+I'm a social scientist interested in equity issues and natural resource management around the world. I'm especially interested in work evaluating the impacts of environmental and development interventions, or work exploring community participation in policymaking. Methodologically, I'm most interested in geospatial data collection, causal inference techniques, and debates about how researchers and policymakers should draw conclusions based on data. My own research incorporates a flexible mix of game theory, observational data analysis, and experimentation.
 
-On this website, you will find some information about my research, courses I have taught, and my CV. You can also get in touch over email. Thank you for visiting!
+On this website, you will find some information about my research, courses I have taught, and my CV. Thank you for visiting!
