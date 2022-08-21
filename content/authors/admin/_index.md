@@ -10,24 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Asst. Instructional Professor
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: Office of Evaluation Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A social scientist interested in the effectiveness of environmental interventions, the relationship between diversity and resource management outcomes, causal inference, and the ways researchers use statistics to draw conclusions about the world.
+bio: A social scientist interested in the effectiveness of environmental interventions, the relationship between diversity and resource management outcomes, causal inference, and the ways researchers use statistics to draw conclusions about the world. Specializing in data analysis with R and Stata.
 
 interests:
 - Resource management
-- Conservation
-- Restoration
-- Development
+- Conservation and restoration
+- Participatory policymaking
 - Geospatial data
 - Causal inference
-- Game theory
+- Statistical learning
 
 education:
   courses:
@@ -77,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a social scientist who studies natural resource management around the world. I'm especially interested in work evaluating the impacts of different kinds of environmental and development interventions. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. My own research incorporates a flexible mix of game theory, observational data analysis, and experimentation.
+I'm a social scientist who studies natural resource management around the world. I'm especially interested in work evaluating the impacts of different kinds of environmental and development interventions, or work exploring community participation in policymaking. Methodologically, I'm interested in geospatial data collection, causal inference techniques, and debates about how applied researchers should interpret statistical evidence. My own research incorporates a flexible mix of game theory, observational data analysis, and experimentation.
 
-On this website, you will find some information about my research, courses I teach, and my CV. You can also get in touch over email. Thank you for visiting!
+On this website, you will find some information about my research, courses I have taught, and my CV. You can also get in touch over email. Thank you for visiting!
