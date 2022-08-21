@@ -1,11 +1,11 @@
 ---
-title: "Recognizing the equity implications of restoration priority maps"
+title: "How Communities Benefit from Collaborative Governance: Experimental Evidence in Ugandan Oil and Gas"
 authors:
-- admin
-- Dan Brockington
 - Eric Coleman
-- Ida Djenontin
-- et al
+- admin
+- A. Rani Parker
+- Jacob Manyindo
+- Emmanuel Mukuru
 date: "2020-05-01T00:00:00Z"
 doi: ""
 
