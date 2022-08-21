@@ -4,6 +4,7 @@ authors:
 - Harry Fischer
 - admin
 - Eric Coleman
+- Varnitha Kurli
 - Vijay Ramprasad
 - Forrest Fleischman
 - others
