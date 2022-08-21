@@ -25,7 +25,7 @@ publishDate: "2020-04-07T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: We compare the livelihood and ecosystem benefits of tree plantations in Kangra, India, based on whether they have had long term local participation in their management.
+summary: We compare the livelihood and ecosystem benefits of tree plantations in Kangra, India, based on whether they have had longterm local participation in their management.
 
 tags:
 featured: true
