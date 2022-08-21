@@ -38,7 +38,7 @@ education:
     year: 2017
   - course: BSc in Business Management
     institution: University of Maryland
-    year: 2009
+    year: 2013
   - course: BA in Government and Politics
     institution: University of Maryland
     year: 2013
@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:wschultz@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:schultzw87@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BillSchultzPhD
