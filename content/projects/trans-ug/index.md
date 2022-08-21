@@ -2,6 +2,10 @@
 title: "Transparency and Attributions in the Extractives Sector: A Field Experiment in Western Uganda"
 authors:
 - admin
+- Eric Coleman
+- A. Rani Parker
+- Jacob Manyindo
+- Emmanuel Mukuru
 date: "2021-09-17T00:00:00Z"
 doi: ""
 
