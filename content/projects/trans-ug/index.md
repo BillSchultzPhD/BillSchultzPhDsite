@@ -1,5 +1,5 @@
 ---
-title: "Transparency and attributions in the extractives sector: A field experiment in Western Uganda"
+title: "Transparency and Attributions in the Extractives Sector: A Field Experiment in Western Uganda"
 authors:
 - admin
 date: "2021-09-17T00:00:00Z"
@@ -37,7 +37,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'P-value function providing evidence against a treatment effect on change in blame attributions'
+  caption: ''
   focal_point: ""
   preview_only: false
 
