@@ -23,7 +23,7 @@ publishDate: "2020-04-07T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: Multi-stakeholder forums in the Albertine Graben improved subsequent community collaboration with various decision-makers, and strategically targeting such forums could increase their impacts even more.
+summary: Multi-stakeholder forums in the Albertine Graben improved subsequent community collaborations with various decision-makers, and strategically targeting such forums could increase their impacts even more.
 
 tags:
 featured: true
