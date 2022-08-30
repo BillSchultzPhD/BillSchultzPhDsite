@@ -68,6 +68,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a social scientist interested in equity issues and natural resource management around the world. I'm especially interested in work evaluating the impacts of environmental and development interventions or exploring community participation in policymaking. Methodologically, I'm most interested in causal inference and debates about how analysts should draw conclusions based on statistical evidence. My own research incorporates a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
+I'm a social scientist interested in natural resource management around the world, and associated equity issues. I'm especially interested in work evaluating the impacts of environmental interventions or exploring community participation in policymaking. Methodologically, I'm most interested in causal inference and debates about how analysts should draw conclusions based on statistical evidence. My own research incorporates a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
 
 On this website, you will find some information about my personal research, courses I've taught in the past, and my CV. Thank you for visiting!
