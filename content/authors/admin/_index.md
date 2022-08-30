@@ -9,16 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Data Scientist
-
-# Organizations/Affiliations
-organizations:
-- name: Office of Evaluation Sciences
-  url: ""
-
 # Short bio (displayed in user profile at end of posts)
-bio: A social scientist interested in the effectiveness of environmental interventions, causal inference, and the ways researchers use statistics to draw conclusions about the world. Specializing in data analysis with R and Stata.
+bio: I'm a social scientist interested in the effectiveness of environmental interventions, causal inference, and the ways researchers use statistics to draw conclusions about the world. Specializing in data analysis with R and Stata.
 
 interests:
 - Resource management
