@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:schultzw87@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wbs15@fsu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BillSchultzPhD
