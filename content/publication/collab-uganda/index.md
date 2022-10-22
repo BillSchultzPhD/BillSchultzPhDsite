@@ -15,7 +15,7 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecological Economics, 171*"
+publication: "*Journal of Public Administration Research and Theory*"
 publication_short: ""
 
 abstract: This paper reports the results of a randomized controlled trial to assess the collaborative effects of community participation in the Ugandan oil and gas sector. Our research design assesses collaborative impacts as relational between community members and different decision-makers in the sector, and is measured from the point of view of local people. Local people often face power imbalances in collaborative governance, but decision-makers are increasingly attempting to mitigate such imbalances to improve outcomes for communities. However, little rigorous empirical evidence exists to show the impact of such efforts. We find that encouraging the equitable participation of communities does improve collaboration with other actors. Additionally, using machine-learning, we demonstrate how to target those communities most likely to benefit from the intervention. By purposefully targeting the most promising communities, we show that estimated treatment effects of the intervention are about twice as large as those produced through pure random assignment. Our results provide evidence that interventions mindful of community needs can improve collaborative governance, and shows how such communities can be more effectively targeted.
@@ -27,10 +27,6 @@ tags:
 featured: true
 
 links:
-- name: Publication link
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0921800918313909
-- name: Formal Appendix
-  url: 'rmjp_proof.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -43,7 +39,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A fragmented social network'
+  caption: ''
   focal_point: ""
   preview_only: false
 
