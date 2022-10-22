@@ -1,10 +1,11 @@
 ---
 title: "Recognizing the Equity Implications of Restoration Priority Maps"
 authors:
-- Eric Coleman
-- Jacob Manyindo
-- A. Rani Parker
 - admin
+- Dan Brockington
+- Eric Coleman
+- Ida Djenontin
+- others
 date: "2019-11-18T00:00:00Z"
 doi: ""
 
