@@ -31,8 +31,6 @@ tags:
 featured: true
 
 links:
-- name: Publication link
-- name: Replication
 url_pdf: ''
 url_code: ''
 url_dataset: ''
