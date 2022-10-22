@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Environmental Research Letters*"
 publication_short: ""
 
-abstract: test
+abstract: A growing number of studies develop maps to prioritize conservation and restoration interventions around the world. These maps often highlight the benefits of concentrating such interventions in the tropics. However, the equity implications of using such priority maps to guide global policy are less often explored and articulated. We highlight these equity issues by examining a widely publicized restoration priority map as an illustrative case. First, we calculate the proportion of agricultural land in countries around the world that this map classifies as a top 15% restoration priority. A regression analysis shows that this map prioritizes restoration in countries where displacing agriculture would likely be most detrimental to livelihoods: countries that are poorer, more populated, more economically unequal, less food secure, and that employ more people in agriculture. Second, we show through a second regression analysis that a similar pattern appears sub-nationally within the tropics. In other words, equity concerns persist at a subnational scale even after putting aside comparisons between the tropics and the Global North. Global prioritization exercises must better attend to the social impacts of concentrating this threat in vulnerable regions
 
 # Summary. An optional shortened abstract.
 summary: Adverse social impacts warrant more attention to equity in restoration priority mapping studies.
