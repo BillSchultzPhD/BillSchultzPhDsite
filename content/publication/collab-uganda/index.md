@@ -1,7 +1,11 @@
 ---
 title: "How Communities Benefit from Collaborative Governance: Experimental Evidence in Ugandan Oil and Gas"
 authors:
+- Eric Coleman
 - admin
+- A. Rani Parker
+- Jacob Manyindo
+- Emmanuel Mukuru
 date: "2022-10-01T00:00:00Z"
 doi: ""
 
