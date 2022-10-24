@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a social scientist interested in the effectiveness of environmental interventions, causal inference, and the ways researchers use statistics to draw conclusions about the world. I specialize in data analysis with R, Stata, and various geospatial software.
+bio: I'm a social scientist interested in the effectiveness of environmental interventions, the equity implications of environmental policy, and the ways policy researchers use statistics to draw conclusions about the world. I specialize in analysis through R, Stata, and various geospatial software.
 
 interests:
 - Resource management
