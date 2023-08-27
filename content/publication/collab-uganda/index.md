@@ -31,6 +31,10 @@ tags:
 featured: true
 
 links:
+- name: Publication link
+  url: https://academic.oup.com/jpart/advance-article-abstract/doi/10.1093/jopart/muac050/6927134
+- name: Replication
+  url: https://doi.org/10.7910/DVN/JMH0K9
 url_pdf: ''
 url_code: ''
 url_dataset: ''
