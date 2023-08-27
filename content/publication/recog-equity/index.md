@@ -33,6 +33,8 @@ featured: true
 links:
 - name: Publication link
   url: https://iopscience.iop.org/article/10.1088/1748-9326/ac9918#erlac9918s5
+- name: Replication
+  url: https://doi.org/10.6084/m9.figshare.24038592.v3 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
