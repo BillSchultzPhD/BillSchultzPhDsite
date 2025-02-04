@@ -19,7 +19,7 @@ interests:
 - Geospatial data
 - Causal inference
 - Statistical learning
-- Quantitative social science
+- Evidence-based policy
 
 education:
   courses:
