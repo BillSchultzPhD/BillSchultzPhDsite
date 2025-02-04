@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a social scientist interested in the effectiveness of environmental interventions, the equity implications of environmental policy, and the ways policy researchers use statistics to draw conclusions about the world. I specialize in analysis through R, Stata, and various geospatial software.
+bio: I'm a social scientist interested in the use of statistical evidence to inform policy decisions, research methodology, and the effectiveness of environmental interventions (along with their equity implications). I specialize in data analysis through R, Stata, Python, and geospatial software.
 
 interests:
 - Resource management
@@ -19,6 +19,7 @@ interests:
 - Geospatial data
 - Causal inference
 - Statistical learning
+- Quantitative social science
 
 education:
   courses:
@@ -68,6 +69,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a social scientist interested in natural resource management around the world and associated equity issues. I'm especially interested in work evaluating the impacts of environmental interventions or exploring community participation in policymaking. Methodologically, I'm most interested in causal inference, and debates about how analysts should draw conclusions based on statistical evidence. My own research incorporates a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
+I'm a quantitative social scientist with a variety of methodological and substantive interests. Substantively, I got my start studying natural resource management and associated equity issues. I'm especially interested in environmental program evaluation and studies of community participation in policymaking. Methodologically, I'm interested in researchers weigh experimental design choices, sequential outcomes in program evaluation, causal inference more generally, and debates about how statistical evidence is used to inform policy. My own research employs a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
 
-I'm currently an Associate Scholar affiliated with Florida State University, and spend some of my time working for the General Service Administration's Office of Evaluation Sciences as a Data Scientist. On this website, you will find some information about my personal research, courses I've taught in the past, and my CV. Thank you for visiting!
+I'm currently an Associate Scholar affiliated with Florida State University. I spend some of my time working for the General Service Administration's Office of Evaluation Sciences as a Data Scientist. On this website, you will find some information about my personal research, courses I've taught in the past, and my CV. Thank you for visiting!
