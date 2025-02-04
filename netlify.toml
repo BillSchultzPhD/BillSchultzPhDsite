@@ -1,6 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
+  node_version = "14"
 
 [build.environment]
   HUGO_VERSION = "0.66.0"
