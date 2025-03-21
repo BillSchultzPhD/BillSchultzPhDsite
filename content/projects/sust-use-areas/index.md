@@ -1,6 +1,6 @@
 
 ---
-title: "Local initiative and conservation effectiveness: evidence from mixed-use protected areas in Brazil"
+title: "What questions about conservation have causal answers? Highlighting the problem of multiple treatment versions."
 authors:
 - admin
 date: "2020-05-01T00:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2020-04-07T00:00:00Z"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study compares the performance of a sample of mixed use protected areas in Brazil (in terms of fire prevention) based on whether they were created in a top-down manner, or whether they were created in response to local policy initiative.
+summary: This study reviews the importance of carefully defining the causal questions that conservation scientists want to answer during the early stages of a study, with the focus on issues raised by non-random selection into different "versions" of treatment.
 
 tags:
 featured: true
@@ -60,4 +60,4 @@ slides: ""
 
 ---
 
-There are strong normative arguments for prioritizing conservation and development interventions that have been developed in response to local initiative, rather than imposed in a top-down manner. However, it is difficult to provide reliable empirical evidence on the implications of this practice for policy outcomes (e.g., achieving conservation goals), given the many potentially confounding differences between bottom-up and top-down interventions. In this study, I identify a sample of mixed use protected areas in Brazil that appear similar, except that some were created in a top-down manner while others were created in response to articulated community demands. I consider several approaches to providing associational evidence on the link between top down protection and forest fire risk. Such analyses illuminate the nuanced relationship between local initiative and conservation effectiveness. These findings underline a need for more rigorous, design-based interventions in this area. I conclude with a discussion of how that might be accomplished within reasonable equity guidelines.
+Recent years have seen increasing attention to problems of causal inference in conservation science research. However, many of the laudable advances in this area have focused on the estimation stage of the research design process: discouraging the use of estimation strategies that cannot credibly estimate causal effects, or encouraging the use of follow-up analyses to determine how sensitive correlational findings may be to unobserved confounding. In this study, I highlight a problem that has received relatively less attention, but which is no less important: carefully defining the "estimand," the causal question a researcher wants to answer. Inattention to this issue is especially problematic when units can self-select into different "versions" of the treatment they may receive. I review select examples of this issue in the conservation science literature, with a focus on how it might interfere with the accumulation of conservation policy evidence, or how it might drive misleading criticisms of correlational studies. I end this study with a set of practical lessons for applied researchers.
