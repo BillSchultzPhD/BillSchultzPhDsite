@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a social scientist interested in the use of statistical evidence to inform policy decisions, research methodology, and the effectiveness of environmental interventions (along with their equity implications). I specialize in data analysis through R, Stata, Python, and geospatial software.
+bio: I'm a social scientist interested in evidence-based policymaking, research methodology, and the impacts of environmental projects. I specialize in data analysis using R, Stata, Python, and geospatial software.
 
 interests:
 - Resource management
@@ -69,6 +69,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a quantitative social scientist with a variety of methodological and substantive interests. *Substantively*, I got my start as a researcher studying participatory policy interventions and the effectiveness of environmental programs. I'm especially interested in equity issues associated with natural resource management. *Methodologically*, I'm interested in how researchers weigh experimental design choices, the use of sequential outcomes in program evaluation, causal inference more generally, and debates about how statistical evidence should inform policy. My own research employs a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
+I'm a quantitative social scientist specializing in policy research. *Substantively*, I got my start studying participatory policy interventions and the effectiveness of environmental programs. I'm especially interested in equity issues associated with environmental programs. *Methodologically*, I'm interested in how researchers weigh research design choices, difficulties raised by sequential outcome measures, causal inference more generally, and debates about how statistical evidence should inform policy. My work employs a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
 
 I'm currently an Associate Scholar affiliated with Florida State University. I spend some of my time working for the General Service Administration's Office of Evaluation Sciences as a Data Scientist. On this website, you will find some information about my personal research, courses I've taught in the past, and my CV. Thank you for visiting!
