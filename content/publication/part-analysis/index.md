@@ -1,11 +1,13 @@
 ---
 title: "Forest restoration for environment and well-being is associated with empowered local governance over long time horizons"
 authors:
-- Elizabeth Martin
-- Andrew Feher
+- Harry Fischer
 - admin
-- Elana Safran
-- Alison Cohen
+- Eric Coleman
+- Varnitha Kurli
+- Vijay Ramprasad
+- Forrest Fleischman
+- others
 date: "2024-06-01T00:00:00Z"
 doi: ""
 
