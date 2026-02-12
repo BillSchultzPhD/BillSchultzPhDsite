@@ -10,10 +10,10 @@ authors:
 superuser: true
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a social scientist interested in evidence-based policymaking, research methodology, and the impacts of environmental projects. I specialize in data analysis using R, Stata, Python, and geospatial software.
+bio: I'm a social scientist interested in research methodology and the equity implications of policy implementation choices, especially in environmental contexts. I specialize in data analysis using R, Stata, Python, and geospatial software.
 
 interests:
-- Resource management
+- Equity in policy implementation
 - Conservation and restoration
 - Participatory policymaking
 - Geospatial data
@@ -69,6 +69,6 @@ email: ""
 #- Visitors
 ---
 
-I'm a quantitative social scientist specializing in policy research. *Substantively*, I got my start studying participatory policy interventions and the effectiveness of environmental programs. I'm especially interested in equity issues associated with environmental programs. *Methodologically*, I'm interested in how researchers weigh research design choices, difficulties raised by sequential outcome measures, causal inference, and debates about how statistical evidence should inform policy. My work employs a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
+I'm a quantitative social scientist specializing in policy research. *Substantively*, I'm interested in equity implications of policy implementation choices, especially in the environmental and health sectors. *Methodologically*, I'm interested in how analysts draw conclusions or make recommendations based on statistical evidence, the challenges of casual inference in program evaluation, and the ways that researchers navigate different design choices. My work employs a flexible mix of game theory, correlational analysis, quasi-experimental analysis, and experimentation.
 
 I'm currently an Assistant Research Professor in the McCourt School of Public Policy at Georgetown University, working in the Better Governance Lab. I'm also an Associate Scholar affiliated with Florida State University, and I spend some of my time working for the General Service Administration's Office of Evaluation Sciences as a Data Scientist. On this website, you will find information about some of my research, courses I've taught in the past, and my CV. Thank you for visiting!
