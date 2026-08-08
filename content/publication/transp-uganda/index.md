@@ -33,7 +33,7 @@ featured: true
 links:
 - name: Publication link
   url: https://doi.org/10.1111/psj.70150
-- name: Replication link
+- name: Replication
   url: https://doi.org/10.6084/m9.figshare.33137387
 url_pdf: ''
 url_code: ''
