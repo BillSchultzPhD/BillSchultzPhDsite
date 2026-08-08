@@ -2,7 +2,7 @@
 title: "Transparency and Responsibility Attribution: A Field Experiment in Western Uganda"
 authors:
 - admin
-- - Eric Coleman
+- Eric Coleman
 - A. Rani Parker
 - Jacob Manyindo
 - Emmanuel Mukuru
